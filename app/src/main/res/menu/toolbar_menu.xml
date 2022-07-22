@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="New Group"
+        android:id="@+id/newGroup"
+        />
+
+    <item android:title="New broadcast"
+        android:id="@+id/broadcast"
+        />
+
+
+    <item android:title="Starred mesages"
+        android:id="@+id/msg" />
+
+    <item android:title="Payments"
+        android:id="@+id/payments" />
+
+    <item android:title="Settings"
+        android:id="@+id/setting" />
+</menu>
